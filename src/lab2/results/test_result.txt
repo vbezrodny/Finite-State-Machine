@@ -1,0 +1,196 @@
+0                              int
+0                              int
+0                              int
+01                             int
+07                             int
+01234567                       int
+0777                           int
+0l                             long int
+0L                             long int
+0123L                          long int
+0ul                            unsigned long int
+0UL                            unsigned long int
+0777ul                         unsigned long int
+0123UL                         unsigned long int
+0lu                            unsigned long int
+0LU                            unsigned long int
+0777lu                         unsigned long int
+0123LU                         unsigned long int
+0ll                            long long int
+0LL                            long long int
+0777ll                         long long int
+0123LL                         long long int
+0ull                           unsigned long long int
+0ULL                           unsigned long long int
+0777ull                        unsigned long long int
+0123ULL                        unsigned long long int
+0llu                           unsigned long long int
+0LLU                           unsigned long long int
+0777llu                        unsigned long long int
+0123LLU                        unsigned long long int
+0777777777777                  int
+01777777777777777777777        int
+0                              int
+1                              int
+42                             int
+12345                          int
+999999                         int
+0u                             unsigned int
+0U                             unsigned int
+42u                            unsigned int
+12345U                         unsigned int
+0l                             long int
+0L                             long int
+42l                            long int
+12345L                         long int
+0ul                            unsigned long int
+0UL                            unsigned long int
+42ul                           unsigned long int
+12345UL                        unsigned long int
+0lu                            unsigned long int
+0LU                            unsigned long int
+42lu                           unsigned long int
+12345LU                        unsigned long int
+0ll                            long long int
+0LL                            long long int
+42ll                           long long int
+12345LL                        long long int
+0ull                           unsigned long long int
+0ULL                           unsigned long long int
+42ull                          unsigned long long int
+12345ULL                       unsigned long long int
+0llu                           unsigned long long int
+0LLU                           unsigned long long int
+42llu                          unsigned long long int
+12345LLU                       unsigned long long int
+2147483647                     int
+2147483648                     int
+4294967295                     int
+9223372036854775807            int
+18446744073709551615           int
+0x0                            int
+0X0                            int
+0x1                            int
+0xA                            int
+0xF                            int
+0x10                           int
+0xFF                           int
+0xABCDEF                       int
+0x123456789ABCDEF              int
+0x0u                           unsigned int
+0X0U                           unsigned int
+0xFFu                          unsigned int
+0xABCDU                        unsigned int
+0x0l                           long int
+0X0L                           long int
+0xFFl                          long int
+0xABCDL                        long int
+0x0ul                          unsigned long int
+0X0UL                          unsigned long int
+0xFFul                         unsigned long int
+0xABCDUL                       unsigned long int
+0x0lu                          unsigned long int
+0X0LU                          unsigned long int
+0xFFlu                         unsigned long int
+0xABCDLU                       unsigned long int
+0x0ll                          long long int
+0X0LL                          long long int
+0xFFll                         long long int
+0xABCDLL                       long long int
+0x0ull                         unsigned long long int
+0X0ULL                         unsigned long long int
+0xFFull                        unsigned long long int
+0xABCDULL                      unsigned long long int
+0x0llu                         unsigned long long int
+0X0LLU                         unsigned long long int
+0xFFllu                        unsigned long long int
+0xABCDLLU                      unsigned long long int
+0x7FFFFFFF                     int
+0xFFFFFFFF                     int
+0x7FFFFFFFFFFFFFFF             int
+0xFFFFFFFFFFFFFFFF             int
+08                            8 ERROR
+09                            9 ERROR
+0128                          8 ERROR
+0a                            a ERROR
+0u8                           8 ERROR
+0xG                           G ERROR
+0XZ                           Z ERROR
+0x1G                          G ERROR
+0x,                           , ERROR
+0xFFFFFFFFG                   G ERROR
+123a                          a ERROR
+12u3                          3 ERROR
+12l3                          3 ERROR
+123                            int
+0x123uU                       U ERROR
+0123luu                       u ERROR
+0x12ABabCD                     int
+42                             int
+12345u                         unsigned int
+987654321L                     long int
+55555ul                        unsigned long int
+123456789LL                    long long int
+987654321ULL                   unsigned long long int
+0777                           int
+01234567L                      long int
+0777ULL                        unsigned long long int
+0x1A2B                         int
+0x1A2Bu                        unsigned int
+0xABCDEFL                      long int
+0xFFFFFFFFFFFFFFFFULL          unsigned long long int
+42                             int
+0xFF                           int
+0777                           int
+123L                           long int
+0xABC                          int
+0123                           int
+100u                           unsigned int
+0x50u                          unsigned int
+42                             int
+0xFF                           int
+0777                           int
+0123                           int
+1                              int
+2                              int
+3                              int
+4                              int
+5                              int
+0xFF                           int
+0xAA                           int
+0777                           int
+0123                           int
+42                             int
+3                              int
+1ul                            unsigned long int
+2UL                            unsigned long int
+3uL                            unsigned long int
+42u                            unsigned int
+42LL                           long long int
+2147483647                     int
+0                              int
+10                             int
+0xFF                           int
+0x0                            int
+0x1                            int
+0777                           int
+0128                          8 ERROR
+0xG                           G ERROR
+123a                          a ERROR
+0x;                           ; ERROR
+08                            8 ERROR
+0xFFFFFFFFG                   G ERROR
+12u3                          3 ERROR
+0123Llu                        unsigned long long int
+42                             int
+0xFF                           int
+0777                           int
+123                            int
+0xABC                          int
+077                            int
+0                              int
+0                              int
+0                              int
+0                              int
+0                              int
+0                              int
